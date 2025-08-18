@@ -20,6 +20,7 @@ The main things I used to make Windows work for me after I gave up on Linux.
 - BCUninstaller
 - SoundSwitch
 - Autohotkey
+- WizTree
 
 ## WSL
 - Homebrew
@@ -35,7 +36,7 @@ The main things I used to make Windows work for me after I gave up on Linux.
 
 ## Windhawk
 [My config](/windhwk_config.md)
-- Streamline Taskbar with themeing ([image](https://i.imgur.com/isBupPg.png)).
+- Streamline Taskbar with theming ([image](https://i.imgur.com/isBupPg.png)).
 - Scroll on taskbar to switch virtual desktops.
 - Scroll on tasktray area to change volume.
 - Middle click Taskbar to toggle autohide.
