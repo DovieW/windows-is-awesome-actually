@@ -41,7 +41,6 @@ The main things I used to make Windows work for me after I gave up on Linux.
 - Scroll on tasktray area to change volume.
 - Middle click Taskbar to toggle autohide.
 - Smarter autohide.
-- Middle click to close window.
 - Never combine labels.
 - Middle click taskbar app to close it.
 
