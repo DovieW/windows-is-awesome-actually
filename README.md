@@ -29,14 +29,14 @@ The main things I used to make Windows work for me after I gave up on Linux (for
 - [Docker direct install](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository) (as opposed to Docker Desktop)
 - [LXRunOffline](https://github.com/DDoSolitary/LxRunOffline)
 
-## Autohotkey
+## [Autohotkey](https://github.com/AutoHotkey/AutoHotkey)
 [My config](/ahk_config.ahk)  
 - On Laptop (QMK on Desktop) - Caps Lock to Esc on tap, Ctrl on hold.
 - Scrollock types out clipboard (for pasting into windows which don't allow pasting).
 - `Alt + Win + Left/Right` Move window to virtual desktop.
 - Hotstrings
 
-## Windhawk
+## [Windhawk](https://github.com/ramensoftware/windhawk)
 [My config](/windhwk_config.md)
 - Streamline Taskbar with theming ([image](https://i.imgur.com/isBupPg.png)).
 - Scroll on taskbar to switch virtual desktops.
