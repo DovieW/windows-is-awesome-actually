@@ -3,14 +3,14 @@ The main things I used to make Windows work for me after I gave up on Linux (for
 > If you invest even a fraction of the time you spend on Linux into Windows instead, you’d have a system that’s more reliable and fully meets your needs.
 
 ## Windows Features (built-in)
-- Virtual Desktops
-- End Task in Taskbar
-- WSL (Ubuntu)
+- [Virtual Desktops](https://support.microsoft.com/en-us/windows/configure-multiple-desktops-in-windows-36f52e38-5b4a-557b-2ff9-e1a60c976434)
+- [WSL (Ubuntu)](https://learn.microsoft.com/en-us/windows/wsl/install)
+- [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/)
+- [Task Scheduler](https://en.wikipedia.org/wiki/Windows_Task_Scheduler)
+- [RDP](https://support.microsoft.com/en-us/windows/how-to-use-remote-desktop-5fe128d5-8fb1-7a23-3b8a-41e636865e8c)
 - Shortcut for switching apps: `Win + [1-9]`
-- winget
-- Task Scheduler
-- RDP
-- Disable animations
+- Disable animations setting
+- End Task in Taskbar setting
 
 ## Programs
 - [AltSnap](https://github.com/RamonUnch/AltSnap)
@@ -46,8 +46,8 @@ The main things I used to make Windows work for me after I gave up on Linux (for
 - Never combine labels.
 - Middle click taskbar app to close it.
 
-## PowerToys
-- Shortcut to kill window
-- Always On Top
-- Text Extractor
-- Command Palette
+## [PowerToys](https://github.com/microsoft/PowerToys)
+- [Shortcut to close window](https://aka.ms/PowerToysOverview_KeyboardManager): `Win + Q`
+- [Always On Top](https://aka.ms/PowerToysOverview_AoT)
+- [Text Extractor](https://aka.ms/PowerToysOverview_TextExtractor)
+- [Command Palette](https://aka.ms/PowerToysOverview_CmdPal)
