@@ -1,6 +1,6 @@
 # Windows Is Awesome Actually
 The main things I used to make Windows work for me after I gave up on Linux (for Desktop).
-> If you invested even a fraction of the time you spend on Linux into Windows instead, you’d have a system that’s more reliable and fully meets your needs.
+> If you invest even a fraction of the time you spend on Linux into Windows instead, you’d have a system that’s more reliable and fully meets your needs.
 
 ## Windows Features (built-in)
 - Virtual Desktops
