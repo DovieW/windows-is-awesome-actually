@@ -3,6 +3,7 @@ The main things I used to make Windows work for me after I gave up on Linux (for
 > If you invest even a fraction of the time you spend on Linux into Windows instead, you’d have a system that’s more reliable and fully meets your needs.
 
 ## Windows Features (built-in)
+- Important: Windows Pro (via [massgrave](https://massgrave.dev/))
 - [Virtual Desktops](https://support.microsoft.com/en-us/windows/configure-multiple-desktops-in-windows-36f52e38-5b4a-557b-2ff9-e1a60c976434)
 - [WSL (Ubuntu)](https://learn.microsoft.com/en-us/windows/wsl/install)
 - [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/)
@@ -22,11 +23,13 @@ The main things I used to make Windows work for me after I gave up on Linux (for
 - [SoundSwitch](https://github.com/Belphemur/SoundSwitch)
 - [Autohotkey](https://github.com/AutoHotkey/AutoHotkey)
 - [WizTree](https://diskanalyzer.com/download)
+- [Copilot-CLI](https://github.com/github/copilot-cli) in PowerShell
 
 ## WSL
+- Ubuntu
 - [Homebrew](https://github.com/Homebrew/install?tab=readme-ov-file#install-homebrew-on-macos-or-linux)
 - [VS Code WSL Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
-- [Docker direct install](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository) (as opposed to Docker Desktop)
+- [Docker direct install](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository) (no Docker Desktop)
 - [LXRunOffline](https://github.com/DDoSolitary/LxRunOffline)
 
 ## [Autohotkey](https://github.com/AutoHotkey/AutoHotkey)
